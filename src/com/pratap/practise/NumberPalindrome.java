@@ -21,7 +21,7 @@ public class NumberPalindrome {
     }
     
     public static void main(String[] args) {
-		boolean value = isPalindrome(123);
+		boolean value = isPalindrome(121);
 		System.out.println("The number is "+value);
 	}
 
